@@ -1,8 +1,13 @@
-# React + Vite
+# Guess The Number Game with React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Design Preview for Guess The Number Game](Preview.PNG)
 
-Currently, two official plugins are available:
+![Design Preview for Guess The Number Game](Result-Preview.PNG)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a simple and interactive "Guess the Number" game built using React and React Hook Form. The main objective of the game is for the player to guess a randomly generated number between 1 and 100. The application provides instant feedback on each guess, letting the player know if their guess is too high, too low, or correct.
+
+Technologies Used:
+
+- **React**: Used to build the interactive user interface with component-based architecture.
+- **React Hook Form**: For managing form state and validation with ease.
+- **CSS**: Basic styling for a clean and user-friendly interface.
